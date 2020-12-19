@@ -1,0 +1,65 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percepción de sonidos
+EN	sense of hearing
+NL	gehoor
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	oreja (interior)
+EN	(inner) ear
+NL	(binnen)oor
+label	five_senses	no_sensorial
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Sentido corporal que permite percibir los sonidos	Clave
+seed_sent	Los cinco sentidos son el oído , la vista , el gusto , el tacto y el olfato .	5	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	En anatomía, órgano que sirve para percibir los sonidos	Clave
+seed_sent	El oído de las personas consta de tres partes : el oído externo , el oído medio y el oído interno .	1	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	En el aparato auditivo, parte interior	Clave
+seed_sent	El bebé llora porque tiene una inflamación de oídos .	8	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	abrir {el oído/los oídos}	loc.verb.
+definition	Escuchar u oír con atención	Clave
+seed_sent	Abre bien los oídos , porque no te lo repetiré más veces .	3	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	al oído	loc.adv.
+definition	Referido al modo de hablar, en voz muy baja y acercándose mucho al oyente para que nadie más pueda oír	Clave
+seed_sent	Siempre están diciéndose cosas al oído .	5	WordReference
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	{dar/prestar} oídos	loc.verb.
+definition	Creer lo que se dice o escucharlo con gusto	Clave
+seed_sent	No prestes oídos a los cotilleos .	2	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	hacer oídos sordos	loc.verb.
+definition	No escuchar o no atender una petición o un ruego	Clave
+seed_sent	Hice oídos sordos a sus ruegos y lamentos .	1	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	llegar a oídos de alguien	loc.verb.
+definition	Llegar a su conocimiento	Clave
+seed_sent	Ha llegado a mis oídos la noticia de que te casas .	4	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

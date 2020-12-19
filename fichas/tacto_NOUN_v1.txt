@@ -1,0 +1,46 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	(cualidad que se percibe mediante el) contacto
+EN	(quality that is percieved through the) sense of touch
+NL	(kwaliteit waargenomen met de) tastzin
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	prudencia
+EN	tact
+NL	tact
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Sentido corporal que permite apreciar las cosas mediante el contacto	Clave
+seed_sent	Los ciegos pueden reconocer los objetos mediante el tacto .	8	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Cualidad de un objeto que se percibe mediante el contacto	Clave
+seed_sent	Esta tela tiene un tacto muy suave .	4	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Hecho de tocar o palpar	Clave
+seed_sent	Por el tacto y sin llegar a abrir los ojos supo que lo que le dieron era una naranja .	2	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Habilidad para tratar con una persona o para actuar con acierto en asuntos delicados	Clave
+seed_sent	Díselo con tacto , que se puede enfadar .	2	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+seed_sent	Sabroso , de taninos amables y tacto mórbido , tiene un fluido y largo recorrido que deja un entrañable regusto a regaliz .	6	SCAP	pviaj_09827$15$[6, 6]
+classification_main_sense	five_senses	1
+end_of_subsense

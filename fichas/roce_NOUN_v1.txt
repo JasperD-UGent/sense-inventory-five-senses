@@ -1,0 +1,42 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	rozamiento entre dos superficies
+EN	friction between two surfaces
+NL	wrijving tussen twee oppervlakken
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	trato, contacto, relación
+EN	contact, relation
+NL	omgang, contact, relatie
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	discusión
+EN	discussion
+NL	discussie
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Presión ligera entre dos superficies al deslizarse una sobre otra o estar en contacto	Clave
+seed_sent	El suelo está rayado del roce de la puerta .	5	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Trato y relación frecuente entre dos o más personas	Clave
+seed_sent	Ya no tengo roce con mis compañeros de estudios .	3	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Discusión o enfrentamiento pequeños	Clave
+seed_sent	Seguimos siendo amigos , aunque hayamos tenido algún roce .	8	Clave
+classification_main_sense	five_senses	3
+end_of_subsense

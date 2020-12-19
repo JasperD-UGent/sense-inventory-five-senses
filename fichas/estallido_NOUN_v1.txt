@@ -1,0 +1,35 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	explosión
+EN	explosion
+NL	explosie
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	surgimiento
+EN	outburst
+NL	uitbarsting
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Rotura o explosión producidas de golpe y con gran ruido	Clave
+seed_sent	Se oyó un estallido en la parte trasera del edificio .	3	WordReference
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Producción de un suceso de manera violenta	Clave
+seed_sent	Grecia ha experimentado repetidos estallidos de rebelión feroz .	4	Clave_adaptado
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Sentimiento y manifestación repentinos y violentos de una pasión o de un afecto	Clave
+seed_sent	Al oír la noticia un estallido de alegría recorrió las calles de la ciudad .	5	WordReference
+classification_main_sense	five_senses	2
+end_of_subsense

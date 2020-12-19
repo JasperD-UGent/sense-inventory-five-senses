@@ -1,0 +1,35 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	cualidad que se percibe por el sentido del gusto
+EN	quality that is perceived through the sense of taste
+NL	kwaliteit waargenomen met de smaakzin
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	parecido, semejanza, natureleza
+EN	similarity, nature
+NL	gelijkenis, aard
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Cualidad de una sustancia que se percibe por el sentido del gusto	Clave
+seed_sent	El café tiene sabor amargo .	3	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Parecido o semejanza	Clave
+seed_sent	Esa es una obra de sabor clásico .	5	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	{buen/mal} sabor (de boca)	loc.sust.
+definition	Sensación buena o mala que algo produce	Clave
+seed_sent	Me quedó mal sabor de boca después de dejar a tu primo allí solo .	3	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

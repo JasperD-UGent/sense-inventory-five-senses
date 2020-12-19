@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	fijar la vista en algo (con atención)
+EN	to watch something (with attention)
+NL	(aandachtig) aanschouwen
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	considerar, tener en cuenta
+EN	to consider, to take into account
+NL	beschouwen, rekening houden met
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a algo material o espiritual, poner la atención en ello	Clave
+seed_sent	Contempló el paisaje y se extasió ante su belleza .	0	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Considerar, juzgar o tener en cuenta	Clave
+seed_sent	Estamos contemplando la posibilidad de aplazar las vacaciones .	1	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

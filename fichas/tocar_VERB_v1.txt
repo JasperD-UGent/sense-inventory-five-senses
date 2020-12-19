@@ -1,0 +1,125 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	tocar con las manos
+EN	to touch
+NL	aanraken
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	entrar en contacto con algo (referido a un objeto)
+EN	to stand against something (referring to an object)
+NL	ergens tegen staan (verwijzend naar een object)
+label	five_senses	personificado
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	hacer sonar
+EN	to (let) play, to ring
+NL	bespelen, laten klinken
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	4
+ES	cambiar
+EN	to change
+NL	veranderen
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	5
+ES	tratar
+EN	to treat, to be about
+NL	behandelen, gaan over
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	6
+ES	corresponder a alguien (el momento oportuno, un premio, una parte de un todo, etc.)
+EN	to correspond to someone (the ideal moment, a prize, a part of a whole, etc.)
+NL	ten deel vallen, toekomen (het ideale moment, een prijs, een deel van een geheel, etc.)
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	7
+ES	afectar
+EN	to affect, to move
+NL	raken, (ont)roeren
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	8
+ES	llegar a
+EN	to reach
+NL	komen tot
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a un objeto o a una superficie, acercar la mano u otra parte del cuerpo a ellos de forma que entren en contacto	Clave
+seed_sent	No toques la plancha , que quema .	1	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido esp. a un objeto, entrar o ponerlo en contacto con otro	Clave
+seed_sent	Separa esa silla porque está tocando la pared .	5	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Referido a un instrumento musical, hacerlo sonar según unas reglas artísticas	Clave
+seed_sent	¿ Sabes tocar la trompeta ?	2	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Referido a un objeto, hacerlo sonar	Clave
+seed_sent	Toca el timbre para que te abran .	0	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Referido a una pieza musical, interpretarla con un instrumento	Clave
+seed_sent	Ahora vamos a tocar un pasodoble .	3	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Cambiar, modificar o alterar	Clave
+seed_sent	No toques más el dibujo porque terminarás estropeándolo .	1	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	no
+definition	Referido esp. a un tema o a un asunto, tratarlos o hablar de ellos de forma superficial	Clave
+seed_sent	La conferenciante tocó muchos temas , pero no se detuvo en ninguno .	2	Clave
+classification_main_sense	five_senses	5
+end_of_subsense
+
+MWE	no
+definition	Referido a una acción, llegar el momento oportuno de hacerla	Clave
+seed_sent	Esta tarde toca ir a la compra .	2	Clave
+classification_main_sense	five_senses	6
+end_of_subsense
+
+MWE	no
+definition	Afectar, concernir o ser obligación o responsabilidad de alguien	Clave
+seed_sent	La protección de la naturaleza nos toca a todos .	6	Clave
+classification_main_sense	five_senses	7
+end_of_subsense
+
+MWE	no
+definition	Corresponder como premio o en suerte	Clave
+seed_sent	Le ha tocado un buen premio de la lotería .	2	Clave
+classification_main_sense	five_senses	6
+end_of_subsense
+
+MWE	yes	tocar fondo	loc.verb.
+definition	Llegar a una situación crítica e irreversible	Clave
+seed_sent	La droga irá acabando contigo hasta que llegue un momento en que toques fondo y ya no puedas hacer nada .	12	Clave
+classification_main_sense	five_senses	8
+end_of_subsense

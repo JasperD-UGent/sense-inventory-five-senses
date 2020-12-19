@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	degustar
+EN	to taste, to savour
+NL	proeven, degusteren
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	experimentar (por primera vez)
+EN	to experience (for the first time)
+NL	(voor de eerste keer) meemaken
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a algo, probarlo o tomar una pequeña porción para examinar su sabor	Clave
+seed_sent	Cató el gazpacho y dijo que estaba para chuparse los dedos .	0	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Experimentar, generalmente por primera vez, la impresión o la sensación que produce algo	Clave
+seed_sent	Tiene ganas de catar lo que son unas buenas vacaciones en la playa .	3	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

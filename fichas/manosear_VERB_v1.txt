@@ -1,0 +1,30 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	tocar con las manos
+EN	to touch by hand
+NL	aanraken
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	tratar mucho
+EN	to discuss over and over again
+NL	(tot vervelens toe) bespreken
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Tocar repetidamente con las manos	Clave
+seed_sent	El frutero no deja que los clientes manoseen la fruta .	7	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido a un asunto, tratarlo repetidamente o insistir demasiado en él	Clave
+seed_sent	No me parece un buen tema para una novela , porque creo que está ya muy manoseado .	16	Clave
+restriction	col.
+classification_main_sense	five_senses	2
+end_of_subsense

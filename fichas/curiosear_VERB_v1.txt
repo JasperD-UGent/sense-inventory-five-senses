@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	indagar, fisgonear
+EN	to nose about
+NL	zijn neus ergens insteken, neuzen in
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	mirar algo de manera superficial
+EN	to glance at
+NL	oppervlakkig bekijken
+label	five_senses	físico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Indagar o investigar por costumbre, y con disimulo o maña	Clave
+seed_sent	Curiosea las vidas ajenas y no se preocupa de la suya .	0	WordReference
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Mirar sin mucho interés o de manera superficial	Clave
+seed_sent	En realidad no pienso comprar nada , solo estoy curioseando .	9	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

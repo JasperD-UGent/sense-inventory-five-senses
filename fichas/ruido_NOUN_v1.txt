@@ -1,0 +1,41 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	sonido (molesto)
+EN	noise
+NL	lawaai
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	tumulto
+EN	commotion
+NL	ophef
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Sonido confuso y más o menos fuerte, esp. si es desagradable o molesto	Clave
+seed_sent	Me molesta el ruido de los camiones .	3	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Alboroto, tumulto o discordia	Clave
+seed_sent	¿ Por qué armas tanto ruido por esa tontería ?	5	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	mucho ruido y pocas nueces	col.
+definition	Expresión que se usa para indicar decepción	Clave
+seed_sent	Después de tanto hablarnos de lo maravilloso que era aquel restaurante , mucho ruido y pocas nueces .	13	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	ruido de sables	s.m.
+definition	Señal de pelea	Clave
+seed_sent	No disimules , que desde lejos se oía el ruido de sables entre tú y él .	9	Clave
+classification_main_sense	five_senses	1
+end_of_subsense

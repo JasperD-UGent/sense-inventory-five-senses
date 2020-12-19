@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percepción de olores
+EN	sense of smell
+NL	reukzin
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	intuición, instinto
+EN	intuition, instinct
+NL	intuïtie, instinct
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Sentido corporal que permite la percepción de los olores	Clave
+seed_sent	Los perros tienen el olfato muy desarrollado .	4	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Astucia o facilidad para descubrir algo o para darse cuenta de lo que está encubierto	Clave
+seed_sent	Tiene muy buen olfato para los negocios .	3	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

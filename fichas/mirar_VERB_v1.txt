@@ -1,0 +1,61 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percibir a través de los ojos
+EN	to look at
+NL	bekijken
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	tener en cuenta
+EN	to take into account
+NL	rekening houden met
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	estar orientada hacia
+EN	to be oriented towards
+NL	georienteerd zijn naar
+label	five_senses	personificado
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a algo que puede percibirse por los ojos, observarlo o fijar la vista en ello con atención	Clave
+seed_sent	Mira lo que pone aquí .	0	Clave
+seed_sent	Se miró en el espejo .	1	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Buscar o indagar	Clave
+seed_sent	Mira en el cajón , a ver si está allí .	0	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Registrar, revisar o examinar	Clave
+seed_sent	En la aduana me miraron todas las maletas .	4	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Considerar, valorar o tener en cuenta	Clave
+seed_sent	Mira bien lo que vas a hacer .	0	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Respecto de una cosa, estar orientado hacia ella o situado frente a ella	Clave
+seed_sent	Veo amanecer porque mi ventana mira al este .	5	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	yes	mirar por algo	loc.verb.
+definition	Protegerlo o intentar beneficiarlo	Clave
+seed_sent	Todo padre debe mirar por sus hijos .	3	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

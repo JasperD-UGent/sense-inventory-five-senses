@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	paisaje, vista
+EN	landscape, view
+NL	landschap, uitzicht
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	situación, estado de la cosa
+EN	situation, state of affairs
+NL	situatie, stand van zaken
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Paisaje extenso que se contempla desde un punto de observación	Clave
+seed_sent	Desde esta montaña se divisa un hermoso panorama .	7	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Aspecto que, en conjunto, presenta una situación o un proceso	Clave
+seed_sent	En la conferencia se analizó el panorama actual de la literatura española .	6	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

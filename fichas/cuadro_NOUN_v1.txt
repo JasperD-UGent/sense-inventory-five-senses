@@ -1,0 +1,124 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	figura formada por cuatro lados
+EN	square
+NL	vierkant
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	pintura
+EN	painting
+NL	schilderij
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	(descripción de un) espectáculo, situación, suceso
+EN	(description of a) spectacle, situation, event
+NL	(beschrijving van een) spektakel, situatie, gebeurtenis
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	4
+ES	resumen (en la forma de gráficos, un tablero, etc.)
+EN	overview (in the form of graphics, a dashboard, etc.)
+NL	overzicht (in de vorm van grafieken, een dashboard, etc.)
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	5
+ES	parte en un acto teatral
+EN	scene in a theatre play
+NL	bedrijf in een toneel
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	6
+ES	equipo de personas
+EN	staff
+NL	staf
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	7
+ES	armazón
+EN	frame
+NL	frame
+label	five_senses	no_sensorial
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Figura formada por cuatro lados y cuatro ángulos rectos	Clave
+seed_sent	La falda de mi uniforme es de cuadros .	7	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	En un todo, sección con esta forma	Clave
+seed_sent	El jardín de palacio tiene varios cuadros plantados de rosales .	6	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Pintura, dibujo o grabado, que generalmente se enmarcan y se cuelgan de las paredes como adorno	Clave
+seed_sent	Este es uno de los cuadros más famosos de Goya .	5	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Espectáculo, situación o suceso que se ofrece a la vista y que conmueve o produce determinada impresión	Clave
+seed_sent	Después de las riadas , el cuadro era desolador .	6	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Descripción viva y animada de un suceso o de un espectáculo	Clave
+seed_sent	¿ No has leído ningún cuadro de costumbres del siglo XIX ?	5	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Conjunto de datos organizados y presentados de manera que se hace visible la relación existente entre ellos	Clave
+seed_sent	Utilicé un cuadro sinóptico como ayuda y guía para estudiarme la lección .	2	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	no
+definition	En una representación dramática, cada una de las partes en las que se dividen los actos	Clave
+seed_sent	En uno de los cuadros del tercer acto , el decorado representa el vestíbulo de un hotel .	4	Clave
+classification_main_sense	five_senses	5
+end_of_subsense
+
+MWE	no
+definition	En una organización o en determinada actividad profesional, conjunto de personas que la componen, esp. el que la dirige y coordina	Clave
+seed_sent	El cuadro técnico de esta empresa está muy satisfecho con los nuevos trabajadores .	1	Clave
+classification_main_sense	five_senses	6
+end_of_subsense
+
+MWE	no
+definition	Conjunto de mecanismos o instrumentos necesarios para manejar un aparato o una instalación	Clave
+seed_sent	Frente al asiento de los pilotos estaba el cuadro de mandos del avión .	8	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	no
+definition	En una bicicleta o en una motocicleta, conjunto de tubos que forman su armazón	Clave
+seed_sent	Pintó de azul el cuadro de su bicicleta .	4	Clave
+classification_main_sense	five_senses	7
+end_of_subsense
+
+MWE	yes	cuadro clínico	s.m.
+definition	En medicina, conjunto de síntomas que presenta un enfermo o que caracterizan una enfermedad	Clave
+seed_sent	Según el cuadro clínico , este hombre puede padecer leucemia .	2	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	yes	{estar/quedarse} en cuadro	loc.verb.
+definition	Referido a una corporación, cuerpo o familia, quedar reducidos a pocos miembros o a menos de los necesarios	Clave
+seed_sent	Nuestro equipo ha quedado en cuadro debido a las lesiones .	5	Clave
+classification_main_sense	five_senses	6
+end_of_subsense

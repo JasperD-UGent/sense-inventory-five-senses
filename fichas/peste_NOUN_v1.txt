@@ -1,0 +1,64 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	enfermedad contagiosa
+EN	(bubonic) plague
+NL	(pest)epidemie
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	mal olor, pestilencia
+EN	stench
+NL	pestlucht, stank
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	cosa mala
+EN	evil, bane
+NL	kwaad, vloek, ellende
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	4
+ES	palabras de enojo
+EN	curses
+NL	verwensingen
+label	five_senses	no_sensorial
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Enfermedad que causa gran mortandad	Clave
+seed_sent	Antes el cáncer era una peste , pero hoy hay muchas probabilidades de curación .	5	Clave
+seed_sent	Detectaron un brote de peste neumónica en el país .	4	WordReference
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Mal olor	Clave
+seed_sent	El campo de batalla quedó sembrado de cadáveres , la peste era insoportable .	10	WordReference
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Lo que resulta malo o negativo, o puede ocasionar graves daños	Clave
+seed_sent	La droga es una peste de nuestra sociedad .	4	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Lo que resulta muy molesto	Clave
+seed_sent	Estos mosquitos tan pesados son una peste .	6	Clave
+restriction	col.
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Palabras de enojo o de amenaza	Clave
+seed_sent	Echó pestes cuando vio que se había vuelto a confundir .	1	Clave
+restriction	pl.
+classification_main_sense	five_senses	4
+end_of_subsense

@@ -1,0 +1,70 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	hacer la diferencia entre
+EN	to tell the difference between
+NL	het onderscheid maken tussen
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	percibir a través de (uno de) los sentidos
+EN	to perceive through (one of) the senses
+NL	zintuiglijk waarnemen
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	caracterizar o destacar entre otros
+EN	to characterise or stand out amongst others
+NL	karakteriseren of uitblinken tussen anderen
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	4
+ES	conceder (un privilegio, un honor, etc.)
+EN	to grant (a privilige, an honour, etc.)
+NL	toekennen (van een privilege, een eer, etc.)
+label	five_senses	no_sensorial
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a dos o más cosas, conocer las características que las hacen diferentes	Clave
+seed_sent	¿ Sabes distinguir un mulo de un asno ?	2	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido esp. a una imagen o a un sonido, ser capaz de verla, de oírlo o de percibirlos a pesar de que haya alguna dificultad	Clave
+seed_sent	No distingo bien las letras lejanas porque soy algo miope .	1	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Referido a dos o más cosas, diferenciarlas mediante una señal o una peculiaridad	Clave
+seed_sent	Ese lunar de la barbilla distingue a un gemelo de otro .	5	Clave
+seed_sent	Esos tres perros se distinguen entre sí por su color .	4	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Referido esp. a un comportamiento o a una cualidad, caracterizar y hacer peculiar a algo o a alguien	Clave
+seed_sent	Su sinceridad es lo que lo distingue .	6	Clave
+seed_sent	Todas sus obras se distinguen por una belleza serena .	4	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Referido a una persona, concederle un privilegio, una gracia o un honor como un trato especial	Clave
+seed_sent	La distinguieron con el primer premio .	1	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	no
+definition	Sobresalir o destacar entre otros	Clave
+seed_sent	Se distingue por su humor peculiar .	1	Clave
+restriction	prnl.
+classification_main_sense	five_senses	3
+end_of_subsense

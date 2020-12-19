@@ -1,0 +1,30 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	prudencia
+EN	tact, care
+NL	tact, voorzichtigheid
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	trago, bocado
+EN	sip, bite
+NL	slok, hap
+label	five_senses	objeto
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Habilidad para tratar con una persona sensible o de la que se pretende conseguir algo, o para hablar o actuar con acierto en asuntos delicados	Clave
+seed_sent	Camina con tiento , que el suelo es muy desigual .	2	WordReference
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	yes	dar un tiento a algo	loc.verb.
+definition	Beber o comer de ello	Clave
+seed_sent	Le dimos un tiento al queso que trajo de su pueblo .	3	Clave
+restriction	col.
+classification_main_sense	five_senses	2
+end_of_subsense

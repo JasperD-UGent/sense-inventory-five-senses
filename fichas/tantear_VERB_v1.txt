@@ -1,0 +1,35 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	averiguar una intención, estimar
+EN	to assess, to estimate
+NL	(in)schatten
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	tocar con las manos
+EN	to feel, to touch
+NL	aftasten, voelen
+label	five_senses	físico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Intentar averiguar disimuladamente o con cuidado la intención de una persona o el interés de algo	Clave
+seed_sent	Tengo que tantear a mis padres para ver si me dejan ir contigo .	2	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Calcular a ojo o aproximadamente	Clave
+seed_sent	Tanteó los gastos que supondría ese viaje para ver si podía permitírselo .	0	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Examinar un objeto con cuidado	WordReference
+seed_sent	Tanteó la mesilla de noche buscando un pañuelo .	0	WordReference
+classification_main_sense	five_senses	2
+end_of_subsense

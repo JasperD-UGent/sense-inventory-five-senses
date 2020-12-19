@@ -1,0 +1,52 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percibir a través de (uno de) los sentidos
+EN	to perceive through (one of) the senses
+NL	zintuiglijk waarnemen
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	experimentar un sentimiento
+EN	to experience a feeling
+NL	een gevoel doormaken
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	lamentar
+EN	to be sorry
+NL	betreuren
+label	five_senses	no_sensorial
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Percibir a través de los sentidos	Clave
+seed_sent	Sentí frío al salir a la calle .	0	Clave
+seed_sent	Sentí tus pasos .	0	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido esp. a una sensación o a un sentimiento, experimentarlos o notarlos	Clave
+seed_sent	Siento miedo cuando estoy sola .	0	Clave
+seed_sent	Sentí mucha alegría al verte .	0	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Lamentar o considerar doloroso y malo	Clave
+seed_sent	Siento que no hayas podido venir .	0	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Referido a un estado o una situación, encontrarse o estar en ellos	Clave
+seed_sent	Se siente triste y solo .	1	Clave
+seed_sent	Hoy me siento mejor .	2	Clave
+restriction	prnl.
+classification_main_sense	five_senses	2
+end_of_subsense

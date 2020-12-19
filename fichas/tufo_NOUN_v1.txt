@@ -1,0 +1,43 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	emanación gaseosa
+EN	steam, vapour
+NL	damp
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	hedor
+EN	stench
+NL	pestlucht
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	ambiente
+EN	vibe, environment
+NL	sfeer
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Emanación gaseosa que se desprende de las fermentaciones o de las combustiones imperfectas	Clave
+seed_sent	Los tanques de fermentación tienen una válvula para que salga el tufo .	11	WordReference
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Hedor u olor desagradable y penetrante	Clave
+seed_sent	¡ Qué tufo a pescado !	2	WordReference
+restriction	col.
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Sospecha de algún acontecimiento o de algún engaño o trampa	Clave
+seed_sent	Eso me da el tufo de una estafa .	4	Clave
+classification_main_sense	five_senses	3
+end_of_subsense

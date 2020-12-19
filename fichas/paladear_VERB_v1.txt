@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	degustar
+EN	to taste, to savour
+NL	proeven, degusteren
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	disfrutar de
+EN	to enjoy
+NL	genieten van
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a comida o bebida, disfrutar su sabor poco a poco	Clave
+seed_sent	Paladeó un bombón dejando que se le derritiese en la boca .	0	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido esp. a una obra artística, tomarle gusto o disfrutar con ella	Clave
+seed_sent	Paladeó cada una de las hojas de la novela .	0	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

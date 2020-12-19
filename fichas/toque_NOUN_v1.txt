@@ -1,0 +1,91 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	golpe, contacto
+EN	touch, contact
+NL	aanraking, contact
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	sonido
+EN	sound
+NL	geluid
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	llamamiento, advertencia, aviso
+EN	call, warning, announcement
+NL	oproep, waarschuwing, aankondiging
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	4
+ES	detalle (final)
+EN	(final) detail
+NL	(laatste) detail
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	5
+ES	sabor (degustar)
+EN	taste, flavour
+NL	smaak (proeven)
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	6
+ES	acto de tocar un instrumento
+EN	act of playing an instrument
+NL	het bespelen van een instrument
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Golpe o roce suaves	Clave
+seed_sent	Cuando me vaya daré dos toques en la puerta .	5	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Sonido producido por algún instrumento	Clave
+seed_sent	A las 3:00 a.m. suena el toque de diana para despertar a todos los soldados en el campamento militar .	6	WordReference
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Llamamiento, indicación o advertencia	Clave
+seed_sent	Dale un toque a tu primo para que me devuelva el libro que le presté hace seis meses .	2	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Detalle, matiz o característica	Clave
+seed_sent	Sus trajes siempre tienen un toque de distinción .	5	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	no
+definition	Operación que se hace para concluir o comenzar una obra	Clave
+seed_sent	Para acabar el cuadro faltan algunos toques .	6	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	yes	toque de queda	s.m.
+definition	Prohibición de circular o permanecer en la calle durante determinadas horas, que impone un Gobierno en circunstancias excepcionales	Clave
+seed_sent	El toque de queda suele adoptarse en períodos de guerra .	1	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+seed_sent	Resulta rotunda la ostra al pilpil de merluza con toques de cacao , acertada la navaja con grasa de almendras , y brutal el tronco de cigala con posos al aceite de café retostado .	9	SCAP	pviaj_05155$24$[9, 9]
+classification_main_sense	five_senses	5
+end_of_subsense
+
+MWE	no
+seed_sent	Una gran oportunidad fue de escuchar buen cante , buen toque y saber un poquito más de flamenco que buena falta hace .	10	SCAP	pflam_068$34$[10, 10]
+classification_main_sense	five_senses	6
+end_of_subsense

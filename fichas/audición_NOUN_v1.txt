@@ -1,0 +1,42 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percepción de sonidos
+EN	the act of hearing
+NL	het horen
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	concierto, recital
+EN	concert, performance
+NL	concert, uitvoering
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	prueba que hace un artista
+EN	audition
+NL	auditie
+label	five_senses	no_sensorial
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Percepción de un sonido por medio del oído	Clave
+seed_sent	La audición de ultrasonidos es imposible para el oído humano .	1	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Concierto, recital o lectura que se hacen en público	Clave
+seed_sent	He conseguido varias entradas para una audición en la ópera .	6	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Prueba que hace un artista ante el director del espectáculo o ante el empresario	Clave
+seed_sent	La audición de ayer me salió bien y creo que me elegirán .	1	Clave
+classification_main_sense	five_senses	3
+end_of_subsense

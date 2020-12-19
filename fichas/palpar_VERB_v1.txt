@@ -1,0 +1,30 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	tocar con las manos
+EN	to touch
+NL	aanraken
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	experimentar
+EN	to experience
+NL	meemaken, gewaarworden
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Tocar con las manos para percibir o reconocer mediante el sentido del tacto	Clave
+seed_sent	El médico palpó el vientre de la embarazada .	2	Clave
+seed_sent	La luz se fue y tuve que bajar las escaleras palpando .	10	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Percibir tan claramente como si se tocara	Clave
+seed_sent	En el ambiente se palpa un gran nerviosismo .	4	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

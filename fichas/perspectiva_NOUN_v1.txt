@@ -1,0 +1,48 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	(técnica de representar una) vista
+EN	(technique to represent a) view
+NL	(techniek voor de representatie van een) uitzicht
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	conjunto de posibilidades
+EN	outlook for the future
+NL	toekomstperspectief
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	punto de vista
+EN	point of view
+NL	standpunt
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Técnica para representar en una superficie plana los objetos en la forma y en la disposición en las que aparecen a la vista	Clave
+seed_sent	La perspectiva logra una sensación de profundidad al reproducir en plano la tercera dimensión .	1	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Aspecto general que se presenta a la vista	Clave
+seed_sent	Esta perspectiva muestra la cantidad de público asistente a la plaza .	1	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Posibilidad que se puede prever, esp. si es beneficiosa	Clave
+seed_sent	Este negocio tiene grandes perspectivas de éxito .	4	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Punto de vista o manera de considerar algo	Clave
+seed_sent	Desde mi perspectiva , lo mejor que puedes hacer es seguir estudiando .	2	Clave
+classification_main_sense	five_senses	3
+end_of_subsense

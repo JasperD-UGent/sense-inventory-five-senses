@@ -1,0 +1,30 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	buscar con el olfato, oler
+EN	to smell, to sniff
+NL	ruiken, snuffelen
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	indagar, fisgonear
+EN	to nose about
+NL	zijn neus ergens insteken, neuzen in
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Oler, esp. si se hace con inspiraciones cortas y rápidas	Clave
+seed_sent	No sé qué busca el perro , porque ha olisqueado todos los rincones de la casa .	9	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Husmear o curiosear	Clave
+seed_sent	¡ Ya estás olisqueando entre mis cosas !	3	Clave
+restriction	col.
+classification_main_sense	five_senses	2
+end_of_subsense

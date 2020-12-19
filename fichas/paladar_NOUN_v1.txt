@@ -1,0 +1,42 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	cielo de la boca
+EN	palate
+NL	gehemelte, verhemelte
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	sensibilidad, estilo
+EN	sensitivity, style
+NL	fijngevoeligheid, stijl
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	percepción o apreciación de sabores
+EN	sense of taste, appreciation of flavours
+NL	smaakgevoel
+label	five_senses	físico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	En la boca, parte interior y superior que separa las fosas nasales y la cavidad bucal	Clave
+seed_sent	Para apreciar bien el sabor debes apretar la comida contra el paladar .	11	WordReference
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Capacidad o sensibilidad para apreciar y valorar algo inmaterial	Clave
+seed_sent	No tienes paladar para la música clásica .	2	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Gusto con que se percibe el sabor de los alimentos	WordReference
+seed_sent	Tiene un paladar muy fino .	2	WordReference
+classification_main_sense	five_senses	3
+end_of_subsense

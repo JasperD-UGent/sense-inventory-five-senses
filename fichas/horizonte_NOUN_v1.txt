@@ -1,0 +1,35 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	línea límite de la superficie terrestre, vista
+EN	horizon, view
+NL	horizon, uitzicht
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	conjunto de posibilidades
+EN	outlook for the future
+NL	toekomstperspectief
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Línea límite de la superficie terrestre que alcanza la vista, y en la que la tierra o el mar parece que se juntan con el cielo	Clave
+seed_sent	Vimos ponerse el sol en el horizonte .	6	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Espacio circular de la superficie terrestre encerrado en esta línea	Clave
+seed_sent	Había muchas nubes de tormenta en el horizonte .	7	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Conjunto de posibilidades o de perspectivas	Clave
+seed_sent	El cambio de trabajo me abrió nuevos horizontes .	7	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

@@ -1,0 +1,30 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	buscar con el olfato, oler
+EN	to smell, to sniff
+NL	ruiken, snuffelen
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	indagar, fisgonear
+EN	to nose about
+NL	zijn neus ergens insteken, neuzen in
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Oler con empeño e insistencia	Clave
+seed_sent	El perro olfateaba la calle para seguir el rastro de su amo .	2	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Indagar o tratar de averiguar con mucha curiosidad	Clave
+seed_sent	¿ Quieres dejar de olfatear en mi vida , so cotilla ?	4	Clave
+restriction	col.
+classification_main_sense	five_senses	2
+end_of_subsense

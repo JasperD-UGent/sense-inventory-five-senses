@@ -1,0 +1,97 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percepción de sabores
+EN	sense of taste
+NL	smaakzin
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	sabor (degustar)
+EN	flavour
+NL	smaak (proeven)
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	placer, voluntad
+EN	pleasure, desire
+NL	plezier, verlangen
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	4
+ES	estilo
+EN	style
+NL	stijl
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Sentido corporal que permite percibir y distinguir los sabores	Clave
+seed_sent	En los animales vertebrados , los órganos del gusto están en la lengua .	8	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Sabor de las cosas que se percibe a través de este sentido	Clave
+seed_sent	El café tiene un gusto amargo .	4	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Placer o deleite que se experimenta con algún motivo o que se recibe de algo	Clave
+seed_sent	Trabaja con gusto , porque el ambiente es bueno .	2	Clave
+seed_sent	Me da mucho gusto que me rasquen la espalda .	3	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Voluntad, decisión o determinación propias	Clave
+seed_sent	Si vienes , que sea por tu gusto .	7	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Forma propia que tiene una persona de apreciar las cosas	Clave
+seed_sent	Nunca nos ponemos de acuerdo , porque nuestros gustos son diferentes .	8	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	no
+definition	Capacidad que tiene alguien para sentir o apreciar lo bello y lo feo	Clave
+seed_sent	Ha decorado su casa con mucho gusto .	6	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+MWE	no
+definition	Cualidad que hace bella o fea una cosa	Clave
+seed_sent	Me parece un chiste grosero y de mal gusto .	8	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	no
+definition	Estilo o tendencia artísticos	Clave
+seed_sent	Este salón rococó sigue el gusto francés .	5	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	yes	a gusto	loc.adv.
+definition	Bien, cómodamente o sin problemas	Clave
+seed_sent	Nos llevamos bien y estamos a gusto juntos .	6	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	yes	al gusto	loc.adv.
+definition	Referido a un alimento, condimentado según la preferencia de quien lo va a consumir	Clave
+seed_sent	Alíñese la ensalada al gusto .	4	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	con mucho gusto	/
+definition	Expresión de cortesía que se usa para acceder a una petición	Clave
+seed_sent	Iré a buscarte al aeropuerto con mucho gusto .	7	Clave
+classification_main_sense	five_senses	3
+end_of_subsense

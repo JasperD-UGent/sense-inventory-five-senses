@@ -1,0 +1,63 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	examinar
+EN	to test
+NL	testen, (uit)proberen
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	degustar
+EN	to taste, to savour
+NL	proeven, degusteren
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	justificar
+EN	to prove
+NL	bewijzen
+label	five_senses	no_sensorial
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition		Clave
+seed_sent	Prueba la radio para ver si te la han arreglado bien .	0	Clave
+seed_sent	Pruébate el vestido antes de comprarlo .	0	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition		Clave
+seed_sent	Probaron a todos los candidatos para ver quién era el más indicado .	0	Clave
+seed_sent	¿ Me estás probando para ver cuánta paciencia tengo , rico ?	3	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido a un alimento o a una bebida, tomar una pequeña cantidad de ellos	Clave
+seed_sent	Prueba la salsa para ver si está bien de sal .	0	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Referido a un alimento o a una bebida, comerlo o beberla	Clave
+seed_sent	Desde que quiere adelgazar no prueba el dulce .	5	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Referido a la verdad o a la existencia de algo, justificarla y demostrarla, esp. si se hace mediante razones, instrumentos o testigos	Clave
+seed_sent	Esos reproches prueban que entre vosotros ya no hay amistad .	2	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Referido a una acción, intentarla	Clave
+seed_sent	Probó a saltar el muro , pero no lo consiguió .	0	Clave
+preposition	a
+classification_main_sense	five_senses	1
+end_of_subsense

@@ -1,0 +1,47 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	naturaleza, núcleo, fondo
+EN	nature, core
+NL	aard, kern
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	extracto aromático
+EN	aromatic extract
+NL	aromatisch extract
+label	five_senses	objeto
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Naturaleza de las cosas	Clave
+seed_sent	Muchos filósofos han intentado definir la esencia humana y la divina .	6	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Lo característico y más importante de algo	Clave
+seed_sent	La amistad es la esencia de su relación .	4	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Extracto líquido y concentrado de una sustancia, generalmente aromática	Clave
+seed_sent	Con unas gotas de esencia de menta te mejorarás .	4	WordReference
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Sustancia volátil y de olor intenso que se extrae de ciertos vegetales	Clave
+seed_sent	La esencia de trementina se emplea en medicina y en la industria .	1	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Perfume líquido con gran concentración de sustancias aromáticas	WordReference
+seed_sent	Añadí un poco de alcohol a esa esencia porque olía demasiado .	7	WordReference
+classification_main_sense	five_senses	2
+end_of_subsense

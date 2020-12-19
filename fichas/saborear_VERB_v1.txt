@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	degustar
+EN	to taste, to savour
+NL	proeven, degusteren
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	disfrutar de
+EN	to enjoy
+NL	genieten van
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a algo que se come o se bebe, percibir su sabor detenidamente y deleitándose en él	Clave
+seed_sent	Para saborear la comida hay que comer despacio .	1	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Apreciar o disfrutar con detenimiento y tranquilidad	Clave
+seed_sent	Saboreas el triunfo por anticipado .	0	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

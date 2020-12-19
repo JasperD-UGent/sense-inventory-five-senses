@@ -1,0 +1,41 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	examinar por medio del tacto
+EN	to feel, to touch
+NL	bevoelen, betasten
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	seducir
+EN	to tempt
+NL	verleiden
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	probar
+EN	to try
+NL	proberen, beproeven
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Examinar y reconocer por medio del tacto	Clave
+seed_sent	Me tenté el bolsillo de la chaqueta para ver si llevaba la cartera .	1	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Estimular o inducir a la realización de algo, esp. si es censurable o perjudicial	Clave
+seed_sent	Me han hecho una oferta de trabajo que me tienta mucho , pero tendría que irme del país .	9	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+seed_sent	Tenía autoridad allí , pero no nos beneficiaba tentar la suerte .	8	SCAP_adaptado	bejur_016$13720$[9, 9]
+classification_main_sense	five_senses	3
+end_of_subsense

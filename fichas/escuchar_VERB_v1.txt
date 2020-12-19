@@ -1,0 +1,35 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	aplicar el oído para oír
+EN	to use the sense of hearing
+NL	het gehoor gebruiken
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	hacer lo que alguien te dice
+EN	to do what someone tells you to do
+NL	doen wat iemand je opdraagt
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a algo que se oye, prestarle atención	Clave
+seed_sent	Te oigo , pero prefiero no escuchar lo que me dices .	6	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido esp. a un consejo, atenderlo o hacer caso de él	Clave
+seed_sent	Escucha mis consejos , o te arrepentirás .	0	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Aplicar el oído para oír	Clave
+seed_sent	No escuches , que lo que están hablando es una conversación privada .	1	Clave
+classification_main_sense	five_senses	1
+end_of_subsense

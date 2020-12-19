@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percibir a través del oído
+EN	to hear
+NL	horen
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	atender un ruego o un aviso
+EN	to attend to a request or a warning
+NL	navolging geven aan een verzoek of een waarschuwing
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a un sonido, percibirlo por medio del oído	Clave
+seed_sent	Se levantó de la cama al oír un ruido sospechoso .	6	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido a un ruego o a un aviso, atenderlos	Clave
+seed_sent	La empresa oirá las propuestas de los sindicatos si se desconvoca el paro de la próxima semana .	2	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

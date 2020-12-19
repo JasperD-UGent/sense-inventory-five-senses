@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	ligero sabor en la boca
+EN	light taste in the mouth
+NL	lichte smaak in de mond
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	sensación, impresión
+EN	feeling, impression
+NL	gevoel, indruk
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Ligero sabor que queda en la boca después de comer algo o que acompaña a otro sabor más fuerte	Clave
+seed_sent	Este bombón tiene gustillo a coñac .	3	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Sensación o impresión dejadas por algo	Clave
+seed_sent	La discusión me dejó un gustillo amargo .	5	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

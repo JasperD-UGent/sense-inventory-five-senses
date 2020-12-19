@@ -1,0 +1,48 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	examinar, fijar la vista
+EN	to examinate, to look at
+NL	waarnemen, bekijken
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	darse cuenta, comprobar
+EN	to realise, to find
+NL	beseffen, vaststellen
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	cumplir
+EN	to comply with
+NL	naleven
+label	five_senses	no_sensorial
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Examinar, estudiar o contemplar atentamente	Clave
+seed_sent	Observamos el ala de una mosca con el microscopio .	0	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Advertir o reparar	Clave
+seed_sent	Observo que habéis hecho mejoras en esta habitación .	0	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Mirar atentamente y con cautela	Clave
+seed_sent	El detective observaba todos los movimientos del sospechoso .	2	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido esp. a una ley o a una orden, guardarlas y cumplirlas exactamente	Clave
+seed_sent	Todos debemos observar la ley .	2	Clave
+classification_main_sense	five_senses	3
+end_of_subsense

@@ -1,0 +1,86 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percibir a través de los ojos
+EN	to perceive through the eyes, to look at
+NL	waarnemen met de ogen, bekijken
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	comprender, considerar
+EN	to understand, to consider
+NL	begrijpen, beschouwen
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	visitar
+EN	to visit
+NL	bezoeken
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	4
+ES	ser escenario de
+EN	to be the scene of
+NL	de scène zijn van
+label	five_senses	personificado
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a algo material, percibirlo por los ojos mediante la acción de la luz	Clave
+seed_sent	Enciende la luz , que no veo .	6	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Observar o contemplar	Clave
+seed_sent	Se quedó viendo un hormiguero .	2	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Reconocer con cuidado y atención	Clave
+seed_sent	Voy al médico para que me vea el estómago .	6	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Considerar, analizar o reflexionar	Clave
+seed_sent	Mañana veremos ese problema .	1	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Conocer o juzgar	Clave
+seed_sent	No veo nada malo en ello .	1	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Examinar, averiguar o buscar	Clave
+seed_sent	Si ahí no están las llaves , ve a ver en el cajón .	7	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido a una persona, visitarla o estar con ella	Clave
+seed_sent	¿ Te vienes a ver a mi hermana ?	4	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Referido a un lugar, ser escenario de un suceso o un acontecimiento	Clave
+seed_sent	Estos parques han visto muchos juegos infantiles .	3	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	no
+definition	Referido a una persona, encontrarse o estar en el estado, situación o lugar que se expresa	Clave
+seed_sent	Si te ves en la necesidad de pedir dinero , pídemelo a mí .	2	Clave
+restriction	prnl.
+classification_main_sense	five_senses	2
+end_of_subsense

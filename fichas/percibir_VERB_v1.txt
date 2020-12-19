@@ -1,0 +1,42 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	recibir
+EN	to receive
+NL	ontvangen
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	apreciar a través de (uno de) los sentidos
+EN	to perceive through (one of) the senses
+NL	zintuiglijk waarnemen
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	comprender, considerar
+EN	to understand, to consider
+NL	begrijpen, beschouwen
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a algo material, recibirlo y hacerse cargo de ello	Clave
+seed_sent	Para el trabajo que hace , percibe un buen sueldo .	6	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido a la realidad, recibirla o apreciarla a través de uno de los sentidos	Clave
+seed_sent	Algunos animales perciben sonidos que las personas no oyen .	2	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Comprender o conocer por medio de la inteligencia	Clave
+seed_sent	No percibí la importancia de aquellas palabras .	1	Clave
+classification_main_sense	five_senses	3
+end_of_subsense

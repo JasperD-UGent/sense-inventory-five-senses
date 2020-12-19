@@ -1,0 +1,29 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	manosear, tocar
+EN	to touch, to knead
+NL	aanraken, betasten, kneden
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	dormir
+EN	to sleep
+NL	slapen
+label	five_senses	no_sensorial
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Manosear o tocar repetidamente	Clave
+seed_sent	El frutero no permite que los clientes soben la fruta .	7	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Dormir	Clave
+seed_sent	Este fin de semana no pienso hacer otra cosa que sobar .	10	Clave
+classification_main_sense	five_senses	2
+end_of_subsense

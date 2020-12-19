@@ -1,0 +1,55 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percibir un olor
+EN	to perceive a smell
+NL	een geur waarnemen
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	producir un olor
+EN	to produce a smell
+NL	een geur verspreiden
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	conocer o sospechar algo
+EN	to know or suspect something
+NL	iets weten of vermoeden
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Referido a un olor, percibirlo	Clave
+seed_sent	Cuando estoy constipada , no huelo nada .	5	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido a un olor, procurar percibirlo o identificarlo	Clave
+seed_sent	Huele esta salsa , a ver si te parece que está buena .	0	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Producir o despedir olor	Clave
+seed_sent	Los huevos podridos huelen muy mal .	3	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Referido a algo oculto, conocerlo o sospecharlo	Clave
+seed_sent	Olí que estaban maquinando algo .	0	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	yes	oler a algo	loc.verb.
+definition	Parecerlo o dar esa impresión	Clave
+seed_sent	Tanto jaleo me huele a boda repentina en la familia .	3	Clave
+restriction	col.
+classification_main_sense	five_senses	3
+end_of_subsense

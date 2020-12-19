@@ -1,0 +1,97 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	percepción por los ojos
+EN	sense of sight
+NL	het zicht
+label	five_senses	físico
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	observación, paisaje
+EN	observation, landscape, view
+NL	observatie, landschap, uitzicht
+label	five_senses	objeto
+end_of_main_sense
+
+main_sense	five_senses	3
+ES	conocimiento
+EN	knowledge
+NL	kennis
+label	five_senses	metafórico
+end_of_main_sense
+
+main_sense	five_senses	4
+ES	situación (futura), impresión
+EN	(future) situation, impression
+NL	(toekomstige) situatie, impressie
+label	five_senses	metafórico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Sentido corporal que permite percibir algo por los ojos mediante la acción de la luz	Clave
+seed_sent	Perdió la vista de pequeño por una caída .	2	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Mirada o fijación de los ojos sobre algo	Clave
+seed_sent	Avergonzado , bajó la vista al suelo .	4	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Percepción por los ojos mediante la acción de la luz	Clave
+seed_sent	La vista de ese accidente me impresionó mucho .	1	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Observación o contemplación de algo	Clave
+seed_sent	Para relajarse no hay nada mejor que la vista de verdes praderas y espacios amplios .	8	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Apariencia o aspecto que se ve de algo	Clave
+seed_sent	Este guiso tiene una vista estupenda .	4	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Conocimiento claro de las cosas o capacidad para descubrir lo que los demás no ven	Clave
+seed_sent	Tienes mucha vista para los negocios .	2	Clave
+classification_main_sense	five_senses	3
+end_of_subsense
+
+MWE	no
+definition	Extensión de terreno que se ve desde un lugar, o posibilidad de verlo	Clave
+seed_sent	Desde la cima de la montaña hay unas vistas preciosas .	8	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	no
+definition	Representación de un lugar, esp. pictórica o fotográfica, tomada del natural	Clave
+seed_sent	Déjame la cámara de fotos , que quiero sacar unas vistas de la ciudad .	10	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
+
+MWE	yes	a {primera/simple} vista	loc.adv.
+definition	En una primera impresión o reconocimiento ligero de algo	Clave
+seed_sent	A simple vista parece que el problema no sea difícil de solucionar .	2	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	yes	a la vista de algo	loc.adv.
+definition	En consideración o en comparación	Clave
+seed_sent	A la vista de este trabajo , el tuyo es bastante mejor .	2	Clave
+classification_main_sense	five_senses	4
+end_of_subsense
+
+MWE	yes	en vista de algo	loc.prepos.
+definition	En consideración o en atención de ello	Clave
+seed_sent	En vista de tu estado de ánimo , dejaremos esta conversación para otro día .	1	Clave
+classification_main_sense	five_senses	4
+end_of_subsense

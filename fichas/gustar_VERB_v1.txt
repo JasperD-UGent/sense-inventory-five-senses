@@ -1,0 +1,37 @@
+list_of_main_senses
+
+main_sense	five_senses	1
+ES	resultar agradable
+EN	to like
+NL	graag hebben
+label	five_senses	no_sensorial
+end_of_main_sense
+
+main_sense	five_senses	2
+ES	degustar, percibir el sabor de algo
+EN	to taste, to savour
+NL	proeven, degusteren
+label	five_senses	físico
+end_of_main_sense
+
+list_of_subsenses
+
+MWE	no
+definition	Resultar agradable o atractivo, o parecer bien	Clave
+seed_sent	La fruta que más me gusta es el melocotón .	5	Clave
+seed_sent	¿ Te gustaría ir de excursión ?	2	Clave
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Sentir agrado o afición por algo	Clave
+seed_sent	Gusta de leer hasta altas horas de la noche .	0	Clave
+preposition	de
+classification_main_sense	five_senses	1
+end_of_subsense
+
+MWE	no
+definition	Referido esp. a un alimento, probarlo o percibir su sabor	Clave
+seed_sent	Gusté una pizca para ver si estaba en su punto .	0	Clave
+classification_main_sense	five_senses	2
+end_of_subsense
